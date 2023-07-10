@@ -42,7 +42,7 @@ from transformers.utils import (
 )
 
 # from transformers.models.llama.configuration_llama import LlamaConfig
-from models.configuration_llama import LlamaConfig
+from configuration_llama import LlamaConfig
 
 from einops import rearrange
 
